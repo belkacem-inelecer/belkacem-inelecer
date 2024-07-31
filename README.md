@@ -15,7 +15,9 @@
 
 - [🌐 Real-time 2D Point Clouds Registration](#) *(Link to GitHub repo if available)*
 - [🚁 Quadcopter for Forest Fire Detection using YOLOv5](#) *(Bachelor’s Thesis)*
-- 🏅 **[Best Innovative Product Award by JA Worldwide, 2020](https://www.24hdz.dz/injaz-etudiants-meilleur-produit/)** - Recognized for our innovative product during a challenging time.
+- 🏅 **[Best Innovative Product Award by JA Worldwide, 2020](https://www.24hdz.dz/injaz-etudiants-meilleur-produit/)** - Recognized for our innovative product 2020.
+- 🏅 **[Best Innovative Product Award by JA Worldwide, 2020](https://www.theyouthcafe.com/perspectives/tag/ITdrops/)** - Recognized for our innovative product 2020.
+
 
 ### 📜 Patent
 
