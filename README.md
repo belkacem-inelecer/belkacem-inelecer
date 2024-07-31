@@ -27,4 +27,12 @@
 - **STEAM Teacher at World Learning Algeria**
 - **Head of R&D at Inelectronics Student Club**
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/belkacem-bekkour-253185192/)!
+### Connect with me:
+
+- [ResearchGate](https://www.researchgate.net/profile/Belkacem-Bekkour)
+- [Google Scholar](https://scholar.google.com/citations?user=wbo-pQwAAAAJ&hl=en)
+- [Kaggle](https://www.kaggle.com/belkacembekkour)
+- [LinkedIn](https://ca.linkedin.com/in/belkacem-bekkour-253185192)
+- [GitHub](https://github.com/belkacem-inelecer)
+
+Feel free to reach out and connect with me on any of these platforms!
