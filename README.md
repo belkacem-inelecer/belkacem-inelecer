@@ -7,7 +7,7 @@
 ### 🌟 Experience
 
 - **Research Intern at Hydrogen Research Institute, UQTR**
-  - 🤖 I'm creating cutting-edge solutions to improve mobile robot localization in known maps.
+  - 🤖 Developed an algorithm for real-time 2D point clouds registration designed for mobile robots, enhancing their localization capabilities within known maps.
 - **Co-founder of ITdrops**
   - 🛡️ Innovated crucial technologies during COVID-19 and secured a patent for our groundbreaking work.
 
@@ -21,6 +21,15 @@
 
 - **Dispositif de désinfection des mains et objets, détection de port du masque avec prise et stockage de température sans contact**
   - **Patent Number:** DZ 200622 - This patent represents a significant achievement in public health innovation.
+
+### 🎓 Education
+
+- **MSc, Computer Science (Thesis)**, Bishop’s University, Canada
+  - Focusing on real-time 2D point clouds registration.
+- **MEng, Computer Engineering**, Institute of Electrical and Electronics Engineering (IGEE) EX-INELEC, Algeria
+  - Completed one year focused on advanced computing topics.
+- **Bachelor’s degree, Electrical and Electronic Engineering**, Institute of Electrical and Electronics Engineering (IGEE) EX-INELEC, Algeria
+  - Specialized in electrical and electronic engineering fundamentals and applications.
 
 ### 🛠 Skills
 
