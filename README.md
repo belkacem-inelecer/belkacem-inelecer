@@ -1,6 +1,6 @@
 # Hi, I'm Belkacem!
 
-## Junior Researcher, Embedded Systems Enthusiast
+## Junior Researcher, Robotics 4.0 & Embedded Systems Enthusiast
 
 🏫 **Currently pursuing an MSc in Computer Science at Bishop's University, focusing on real-time 2D point clouds registration for mobile robots.** [ResearchGate](https://www.researchgate.net/profile/Belkacem-Bekkour), [LinkedIn](https://www.linkedin.com/in/belkacem-bekkour-253185192/)
 
