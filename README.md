@@ -54,10 +54,5 @@
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Connect on LinkedIn](https://www.linkedin.com/in/belkacem-bekkour-253185192?originalSubdomain=ca)
 - ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) [Follow me on GitHub](https://github.com/belkacem-inelecer)
 
-### 🎉 Fun Facts
-
-- 📚 I love reading about the latest trends in AI and robotics.
-- 🌐 I speak four languages: Arabic, English, French, and Kabyle.
-- 🕹️ In my free time, I enjoy coding fun projects and exploring new tech gadgets.
 
 **Thank you for visiting my GitHub profile! Let's connect and collaborate on exciting projects!**
