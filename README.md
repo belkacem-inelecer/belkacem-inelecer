@@ -51,7 +51,7 @@
 - ![ResearchGate](https://img.shields.io/badge/ResearchGate-00ccbb?style=for-the-badge&logo=researchgate&logoColor=white) [Visit my ResearchGate](https://www.researchgate.net/profile/Belkacem-Bekkour)
 - ![Google Scholar](https://img.shields.io/badge/Google_Scholar-blue?style=for-the-badge&logo=google-scholar&logoColor=white) [View my Publications](https://scholar.google.com/citations?user=wbo-pQwAAAAJ&hl=en)
 - ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white) [Check out my Kaggle](https://www.kaggle.com/belkacembekkour)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Connect on LinkedIn](https://ca.linkedin.com/in/belkacem-bekkour-253185192)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Connect on LinkedIn](https://www.linkedin.com/in/belkacem-bekkour-253185192?originalSubdomain=ca)
 - ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) [Follow me on GitHub](https://github.com/belkacem-inelecer)
 
 ### 🎉 Fun Facts
