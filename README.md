@@ -2,7 +2,7 @@
 
 ## 🧑‍🔬 Junior Researcher & Embedded Systems Enthusiast
 
-🎓 **Currently pursuing an MSc in Computer Science at Bishop's University. I focus on developing real-time 2D point clouds registration frameworks for autonomous mobile robots.**
+🎓 **Currently pursuing an MSc in Computer Science at Bishop's University at the same time doing a long research internship at the Hydrogen Research Institute, UQTR, Canada. I focus on developing real-time 2D point clouds registration frameworks for the purpose on autonomous mobile robots (AMRS) Localization**
 
 ### 🌟 Experience
 
